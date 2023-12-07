@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.Design.Light.NoActionBar">
+        <item name="colorPrimary">@color/orange</item>
+        <item name="colorPrimaryDark">@color/fondo</item>
+        <item name="colorAccent">@color/orange</item>
+    </style>
+
+    <style name="RadioButtonStyle" parent="Theme.Design.Light">
+        <item name="colorAccent">@android:color/holo_orange_light</item>
+        <item name="android:textColorPrimary">@android:color/white</item>
+    </style>
+</resources>
